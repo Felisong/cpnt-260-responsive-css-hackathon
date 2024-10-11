@@ -26,15 +26,19 @@
 }
 .sponsor-card4 {
   grid-area: fourth;
+ 
 }
 .sponsor-card3 {
   grid-area: third;
+  place-self: center;
 }
 .sponsor-card2 {
   grid-area: second;
+  place-self: center;
 }
 .sponsor-card1 {
-  grid-area: first;
+  grid-ar place-self: center;ea: first;
+  place-self: center;
 }
 
 /* Tablet sizes */
