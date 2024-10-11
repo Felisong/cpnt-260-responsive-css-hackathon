@@ -26,7 +26,7 @@
 }
 .sponsor-card4 {
   grid-area: fourth;
- 
+  place-self: center;
 }
 .sponsor-card3 {
   grid-area: third;
@@ -37,7 +37,7 @@
   place-self: center;
 }
 .sponsor-card1 {
-  grid-ar place-self: center;ea: first;
+  grid-area: first;
   place-self: center;
 }
 
